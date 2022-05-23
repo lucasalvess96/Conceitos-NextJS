@@ -1,0 +1,20 @@
+https://nextjs.org/docs/getting-started
+
+https://nextjs.org/learn/basics/create-nextjs-app
+
+npx create-next-app@latest --ts
+
+npm install gray-matter
+
+npm install remark remark-html
+
+npm install date-fns --save
+
+
+https://nextjs.org/docs/basic-features/typescript
+
+
+https://github.com/vercel/next-learn/tree/master/basics
+
+
+https://github.com/vercel/next-learn/tree/master/basics/typescript-final
